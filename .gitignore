@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.session
+.DS_Store
+
+# 项目数据目录（WorkBuddy 本地数据，不入库）
+.workbuddy/
+
+# 历史抓取数据不入库，只在仓库保留最新一期示例
+output/
